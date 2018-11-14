@@ -41,7 +41,7 @@ print('The high score was ' + str(highTestScore) + '\nThe low score was '+ str(l
 print('The high score was {0:.2f}\nThe low score was {1:.2f}'.format(highTestScore, lowTestScore))
 
 print('The print a list of things\n'
-        '\tApple\n'
+        'Apple\n'
         'Banana\n'
         'Orange\n')
     
